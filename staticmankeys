@@ -1,7 +1,4 @@
-{
-  "gitlabToken": "",
-  "githubToken": " key format must be specified",
-  "rsaPrivateKey": "-----BEGIN RSA PRIVATE KEY-----
+-----BEGIN RSA PRIVATE KEY-----
 MIIJKQIBAAKCAgEAxbWPoD07tD6ZDP4GSNLA2Wo4KgyeCtY8aiMV+OSFCzcdvTlE
 RuGlXMsZb2jHY271b7SipLmJY961eajP4mThyV7cigl/ogYOC5hMYv/7AEP0b4GS
 JVrI0sZa4QRe2j4SayUgT5NST+Nm/5Mrb2PWzsxM8V4vPDSRoe3HMhFmcbsCe7aE
@@ -52,6 +49,3 @@ BsxXsfPCV7Tj/rGub2AX+7I+0B9xils0vFhDByB47YVj+6nf1YWRR/V71yP2QzR9
 CJ7cW3yaZoJ47xxF3DI3l6Ao7Z1OB+LhXLwayYFForec39pPzhRsNsR4DCjVjfrf
 0qnTfD2C+j4j6DRS+bhtOqIh4YFY7WhOzMRY2U9HGGXdPt1p0fnxkkOUsLjV
 -----END RSA PRIVATE KEY-----
-",
-  "port": 80
-}

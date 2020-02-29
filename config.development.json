@@ -1,6 +1,6 @@
 {
-  "gitlabToken": "30b764b56e634d7c405bb62234b035185a0504b6",
-  "githubToken": "YOUR_GITHUB_TOKEN",
-  "rsaPrivateKey": "-----BEGIN RSA PRIVATE KEY-----YOUR_KEY-----END RSA PRIVATE KEY-----",
+  "gitlabToken": "",
+  "githubToken": " key format must be specified",
+  "rsaPrivateKey": "",
   "port": 80
 }
